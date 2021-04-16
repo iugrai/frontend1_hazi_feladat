@@ -26,6 +26,7 @@ body {
 
 .main-menu-item {
 display: inline-block;
+margin:0 10px;
 }
 
 .main-menu-item a {
